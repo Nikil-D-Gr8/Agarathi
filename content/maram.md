@@ -1,7 +1,5 @@
 ---
 title: மரம்
-aliases:
-  - Maram
 tags:
   - nature
   - plant

@@ -1,7 +1,5 @@
 ---
 title: கல்வி
-aliases:
-  - Kalvi
 tags:
   - concept
   - noun

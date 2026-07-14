@@ -1,7 +1,5 @@
 ---
 title: இயற்கை
-aliases:
-  - Iyarkai
 tags:
   - nature
   - noun

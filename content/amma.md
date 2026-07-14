@@ -1,7 +1,5 @@
 ---
 title: அம்மா
-aliases:
-  - Amma
 tags:
   - family
   - noun

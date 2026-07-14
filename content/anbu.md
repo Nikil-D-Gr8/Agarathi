@@ -1,7 +1,5 @@
 ---
 title: அன்பு
-aliases:
-  - Anbu
 tags:
   - emotion
   - abstract

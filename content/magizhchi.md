@@ -1,7 +1,5 @@
 ---
 title: மகிழ்ச்சி
-aliases:
-  - Magizhchi
 tags:
   - emotion
   - abstract

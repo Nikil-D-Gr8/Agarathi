@@ -1,7 +1,5 @@
 ---
 title: உணவு
-aliases:
-  - Unavu
 tags:
   - sustenance
   - noun

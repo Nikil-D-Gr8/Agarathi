@@ -1,7 +1,5 @@
 ---
 title: உலகம்
-aliases:
-  - Ulagam
 tags:
   - geography
   - noun

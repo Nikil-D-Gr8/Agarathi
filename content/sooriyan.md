@@ -1,7 +1,5 @@
 ---
 title: சூரியன்
-aliases:
-  - Sooriyan
 tags:
   - space
   - nature

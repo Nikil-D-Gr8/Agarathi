@@ -1,7 +1,5 @@
 ---
 title: அப்பா
-aliases:
-  - Appa
 tags:
   - family
   - noun

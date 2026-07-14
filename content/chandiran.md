@@ -1,8 +1,5 @@
 ---
 title: சந்திரன்
-aliases:
-  - Chandiran
-  - Nila
 tags:
   - space
   - nature

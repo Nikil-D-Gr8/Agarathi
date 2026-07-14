@@ -1,7 +1,5 @@
 ---
 title: நீர்
-aliases:
-  - Neer
 tags:
   - nature
   - noun
